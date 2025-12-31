@@ -10,6 +10,15 @@
   <h3>Computer Engineering Student | Web & App Developer</h3>
   <p>Building tech with purpose 💚</p>
 </div>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+</p>
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Web+%26+App+Developer;Building+Tech+With+Purpose;Future+Full+Stack+Engineer" />
 </p>
