@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://imgs.search.brave.com/0SwXCuFbSDCdWXhu4rJYJWXkttebMjyo7Zn5LLd1gvA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjbUo0ZEdKbE0z/QnJjbXB2YVdKcmVH/RXlhRFZoTm5oNGRt/aDVPRFZtYUhwdmJ6/UmlZM2s1WnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTHlWNGN3MHZE/dEFnYzh4VEhRL2dp/cGh5LmdpZg.gif](https://storyset.com/illustration/connected-world/rafiki)" width="320"/>
+  <img src="https://imgs.search.brave.com/0SwXCuFbSDCdWXhu4rJYJWXkttebMjyo7Zn5LLd1gvA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhjbUo0ZEdKbE0z/QnJjbXB2YVdKcmVH/RXlhRFZoTm5oNGRt/aDVPRFZtYUhwdmJ6/UmlZM2s1WnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vTHlWNGN3MHZE/dEFnYzh4VEhRL2dp/cGh5LmdpZg.gif" width="320"/>
 </p>
 
 <hr>
