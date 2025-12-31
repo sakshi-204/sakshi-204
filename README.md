@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://storyset.com/illustration/connected-world/rafiki" width="320"/>
+  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="320"/>
 </p>
 
 <hr>
