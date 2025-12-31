@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6E8EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Web+%26+App+Developer;Building+Meaningful+Technology;Future+Full+Stack+Engineer" />
 </p>
 
-<p align="center">
-  <img [src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/explore/female-coder)" width="320"/>
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
 </p>
 
 <hr>
