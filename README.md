@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="320"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA4bXQ1NnpweHU3NW1idXZ0emZtcG9oYmxqMmk1M3FyZmN4dGs0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
 </p>
 
 <hr>
