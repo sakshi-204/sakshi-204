@@ -66,18 +66,6 @@ From building web apps to exploring mobile development, I enjoy turning ideas in
 
 <hr>
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakshi-204&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-204&theme=tokyonight" />
-</p>
-
-<hr>
 
 <!-- Quote -->
 <p align="center">
