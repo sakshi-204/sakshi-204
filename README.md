@@ -47,10 +47,7 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 <td><b>Version Control System</b></td>
 <td>Git, GitHub, Figma</td>
 </tr>
-<tr>
-<td><b>Cloud</b></td>
-<td>AWS</td>
-</tr>
+
 <tr>
 <td><b>Cloud</b></td>
 <td>AWS</td>
