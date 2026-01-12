@@ -32,8 +32,8 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 <td>Java, C++, Python</td>
 </tr>
 <tr>
-<td><b>Frontend Languages</b></td>
-<td>HTML, CSS, JavaScript, React.js</td>
+<td><b>Web Technologies</b></td>
+<td>HTML, CSS, JavaScript</td>
 </tr>
 <tr>
 <td><b>Databases</b></td>
@@ -45,7 +45,11 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 </tr>
 <tr>
 <td><b>Version Control System</b></td>
-<td>Git, GitHub, Figma</td>
+<td>Git, GitHub</td>
+</tr>
+<tr>
+<td><b>UI/UX Design Tool </b></td>
+<td>Figma</td>
 </tr>
 
 <tr>
@@ -53,20 +57,24 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 <td>AWS</td>
 </tr>
 <tr>
-<td><b>Framework</b></td>
+<td><b>Frontened Framework</b></td>
+<td>React.js</td>
+</tr>
+<tr>
+<td><b>Backend Framework</b></td>
 <td>SpringBoot</td>
 </tr>
 <tr>
-<td><b>Webserver</b></td>
+<td><b>Web Server</b></td>
 <td>Tomcat</td>
 </tr>
 <tr>
-<td><b>Libraries</b></td>
+<td><b>Python Libraries</b></td>
 <td>Numpy, Pandas</td>
 </tr>
 <tr>
 <td><b>CI/CD Tools</b></td>
-<td>Jenkins, git</td>
+<td>Jenkins</td>
 </tr>
 <tr>
 <td><b>Development Environment:</b></td>
