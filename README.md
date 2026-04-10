@@ -45,7 +45,7 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 </tr>
 <tr>
 <td><b>Version Control System</b></td>
-<td>Pinterest,(https://in.pinterest.com/engineersakshi204/)</td>
+<td>Git, Github</td>
 </tr>
 <tr>
 <td><b>UI/UX Design Tool </b></td>
@@ -89,7 +89,7 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 <h2>💌 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/sakshi-204">🐙 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://in.pinterest.com/engineersakshi204/">🐙Pinterest</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/sakshi-shinde-72625a285">💼 LinkedIn</a>
 </p>
 
