@@ -45,7 +45,7 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 </tr>
 <tr>
 <td><b>Version Control System</b></td>
-<td>Git, GitHub</td>
+<td>Pinterest,(https://in.pinterest.com/engineersakshi204/)</td>
 </tr>
 <tr>
 <td><b>UI/UX Design Tool </b></td>
