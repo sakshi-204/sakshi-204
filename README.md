@@ -89,6 +89,7 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 <h2>💌 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.blogger.com/profile/10868661375200559876">Blogger.com</a> &nbsp;|&nbsp;
   <a href="https://in.pinterest.com/engineersakshi204/">🐙Pinterest</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/sakshi-shinde-72625a285">💼 LinkedIn</a>
 </p>
