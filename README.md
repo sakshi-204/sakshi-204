@@ -74,7 +74,7 @@ I am excited to gain real-world experience and work on impactful, hands-on proje
 </tr>
 <tr>
 <td><b>CI/CD Tools</b></td>
-<td>Jenkins</td>
+<td>Docker</td>
 </tr>
 <tr>
 <td><b>Development Environment:</b></td>
